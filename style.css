@@ -679,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -1068,7 +1068,13 @@ input[type=text], textarea, input[type=email] {
     cursor: pointer;
   }
 
+.space-li {
+    padding-top: 32px;
+}
 
+.li_footer {
+    padding-top: 20px;
+}
 
 .img-texte {
     max-width: 100%;
