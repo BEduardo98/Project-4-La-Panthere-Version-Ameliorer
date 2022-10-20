@@ -1,4 +1,4 @@
-# Project4-Version-Finale
+## Project-4-La-Panthère-Version-Finale
 Ceci est la version finale du site internet La Panthère après amélioration du SEO et de l'accessibilité.
 
 Je travaille dans l'entreprise La Panthère comme développeur web.
